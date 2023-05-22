@@ -1,0 +1,16 @@
+.dropdown-toggle::after {
+  display: none;
+  visibility: hidden;
+  top: -25px;
+}
+
+.dropdown-menu {
+  outline: none;
+  width: 100vw;
+  height: 20vh;
+}
+
+.dropdown-item {
+  outline: none;
+  box-shadow: none;
+}
